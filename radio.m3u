@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,Caltex Music
+http://radio.caltexmusic.com:8000/stream
+#EXTINF:0,Chilltrax
+http://107.182.230.134/stream
+#EXTINF:0,Cinemix
+https://kathy.torontocast.com:1825/stream
+#EXTINF:0,DB90-TX
+http://best.live24.gr/best1222
+#EXTINF:0,Deep House
+https://deephouseradio.radioca.st/;
+#EXTINF:0,Iranseda Avaa
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8
+#EXTINF:0,Iranseda Iran
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8
+#EXTINF:0,Iranseda Javan
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8
+#EXTINF:0,Iranseda Payam
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8
+#EXTINF:0,Iranseda Tehran
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8
+#EXTINF:0,Navahang
+https://navairan.com/;
+#EXTINF:0,Peaceful Piano
+https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
+#EXTINF:0,Radio Farda
+https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21
+#EXTINF:0,Radio Javan
+http://74.115.215.36/
+#EXTINF:0,Smooth Chill
+https://media-ice.musicradio.com/ChillMP3
+#EXTINF:0,Solo Piano
+http://pianosolo.streamguys.net/live
+#EXTINF:0,Synthwave
+https://ecast.myautodj.com/public1channel
+#EXTINF:0,Yar Radio
+https://shoutcast.glwiz.com/RadioYAR.mp3
